@@ -1,0 +1,59 @@
+{
+  "name": "update-node",
+  "version": "0.1.0",
+  "description": "update-node updates repositories to a new Node.js version.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    }
+  ],
+  "bin": {
+    "update-node": "bin/update-node.js"
+  },
+  "dependencies": {
+    "buntstift": "0.4.0",
+    "commander": "2.9.0"
+  },
+  "devDependencies": {
+    "roboter": "0.13.6",
+    "roboter-server": "0.13.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/update-node.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "gitHead": "e6ec74d053a178a6c49018468d00aec8eda8407c",
+  "bugs": {
+    "url": "https://github.com/thenativeweb/update-node/issues"
+  },
+  "homepage": "https://github.com/thenativeweb/update-node#readme",
+  "_id": "update-node@0.1.0",
+  "scripts": {},
+  "_shasum": "f3bac12830dec311d94d5e279b6c46510af0c431",
+  "_from": "update-node@latest",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "goloroden",
+    "email": "webmaster@goloroden.de"
+  },
+  "dist": {
+    "shasum": "f3bac12830dec311d94d5e279b6c46510af0c431",
+    "tarball": "https://registry.npmjs.org/update-node/-/update-node-0.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "goloroden",
+      "email": "webmaster@goloroden.de"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/update-node-0.1.0.tgz_1478937897309_0.21743356809020042"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/update-node/-/update-node-0.1.0.tgz"
+}
